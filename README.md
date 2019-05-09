@@ -1,1 +1,1 @@
-# tueri-api
+# nodejs-es6-express-seed
